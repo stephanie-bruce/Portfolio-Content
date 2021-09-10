@@ -5,7 +5,7 @@ Stephanie Bruce -
  This repository contains samples of my work.
 
    1.    ______________ is my complete thesis from last year
-   2.    ______________ is the corresponding raw code, in C++
+   2.    Robot_tactile_sensors_v6.2.ino is the corresponding raw code, in C++
    3.    BLENDER-FILES contains links to my blender files uploaded to Google Drive. They are currently .blend files and cannot be viewed outside of Blender
    4.    ______________ is the first of the two .blend files described, converted to a viewable .stl file
    5.    ______________ is the second .blend file converted to .stl
