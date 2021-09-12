@@ -242,5 +242,5 @@ void print_results(){
     //Serial.print("%      ");
   }
   Serial.println(); 
-  i=0; // Reset the integer variable to 0 for future use.
+  i=0; // Reset the integer variable to 0 for future use. 
 }
